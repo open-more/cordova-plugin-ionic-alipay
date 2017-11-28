@@ -1,6 +1,9 @@
 # ionic-cordova-plugin-alipay
 ## 前言：
-基于https://github.com/hhjjj1010/cordova-plugin-alipay-v2.git项目修改，ionic3上可以直接使用
+ionic3之后，官方自己的cordova-plugin-alipay都不是很好用，具体的issuus:
+https://github.com/pipitang/cordova-alipay-base/issues/11
+自己修改了，写了一套。
+基于https://github.com/hhjjj1010/cordova-plugin-alipay-v2.git项目修改，ionic3上可以直接使用
 使用最新alipaySdk-20170725包
 ### 本插件仅支持《APP支付》，不支持移动支付
 ***
