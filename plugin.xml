@@ -5,6 +5,8 @@
     <name>Alipay</name>
     <description>Ionic based cordova alipay plugin</description>
     <keywords>cordova,ionic,alipay</keywords>
+    <repo>https://github.com/open-more/cordova-plugin-ionic-alipay.git</repo>
+    <issue>https://github.com/open-more/cordova-plugin-ionic-alipay/issues</issue>
     <preference name="APP_ID"/>
     <js-module name="Alipay" src="www/alipay.js">
         <clobbers target="Alipay"/>
